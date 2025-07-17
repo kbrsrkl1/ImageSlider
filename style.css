@@ -9,9 +9,9 @@ body {
 
 .slider-container {
   position: relative;
-  width: 900px;
+  width: 500px;
   overflow: hidden;
-  height: 550px;
+  height: 300px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
